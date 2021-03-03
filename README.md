@@ -1,2 +1,2 @@
 # Weather app!
-! Find out the weather in your city!
+h2 Find out the weather in your city!
