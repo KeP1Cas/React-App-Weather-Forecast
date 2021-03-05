@@ -65,8 +65,8 @@ class App extends Component {
             <div className="wrapper">
                 <div className="main">
                     <div className="container">
-                        <div className="row">
-                            <div className = "col-sm-5 info">
+                        <div className="row ">
+                            <div className = "col-sm-5 info ">
                                 <Info/>
                             </div>
                             <div className = "col-sm-7 form">
